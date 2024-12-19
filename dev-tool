@@ -1,0 +1,6 @@
+Alibaba Java Coding Guidelines	代码规范	代码规范检查是否符合阿里巴巴JAVA开发手册	https://github.com/alibaba/p3c/tree/master/idea-plugin
+FindBugs-IDEA	代码检查	帮助查找隐藏的bug和隐藏的NPE	https://plugins.jetbrains.com/plugin/4597-qaplug--findbugs
+CodeGlance 效率工具	可以快速定位代码，辅助看到整个类全貌	 https://github.com/Nasller/CodeGlancePro
+Maven Helper	依赖勘察	显示maven依赖树，协助解决依赖冲突	https://github.com/krasa/MavenHelper/
+Free Mybatis Tool	效率工具	https://github.com/moztl/Free-Mybatis-Tool
+Lombok 效率工具	不再担心些Getter、Setter了
